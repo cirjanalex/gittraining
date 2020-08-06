@@ -8,6 +8,7 @@ namespace TrainingGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is Alex Marinescu.");
+            Console.WriteLine("Feature1 development");
         }
     }
 }
