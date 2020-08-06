@@ -11,6 +11,8 @@ namespace TrainingGit
             Console.WriteLine("Feature1 development");
             Console.WriteLine("Feature1 development extra");
             Console.WriteLine("Feature1.1 development");
+
+            Console.WriteLine("This is Vitalie.");
         }
     }
 }
